@@ -1,0 +1,21 @@
+body {
+    background-image: url("bg.png");
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+input {
+  border-radius: 30px;
+  width: 40%;
+  font-size: 30;
+}
+
+h5 {
+    background-color: aliceblue;
+    padding: 2px;
+    border-radius: 4px;
+    height: fit-content;
+    width: fit-content;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
